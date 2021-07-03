@@ -79,7 +79,14 @@ This can include display screens, keyboards, a mouse and the appearance of deskt
 
 ### React is not a framework. It is also known as ReactJS and React.js, so don't get confused if you read different notation in different places.
 
-### Component Based Approach
-A component is one of the core building blocks of React.
-In other words we can say that every application you will develop in react will be made up of pieces called components. Components make the task of buiding UI's much easier.
+## About React
+### 1. Component Based Approach
+    A component is one of the core building blocks of React.
+    In other words we can say that every application you will develop in react will be made up of pieces called components. Components make the task of buiding UI's much easier.
 
+### 2. React uses a Declarative Approach 
+    Declarative programming is a programming paradigm that expresses the logic of a computation without describing its control flow.
+
+### 3. DOM updates are handled gracefully
+
+### 4. Reusable Code
