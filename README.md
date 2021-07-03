@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+######
+
+
+### `React` - A Javascript library for building user interfaces 
+The user interface (UI) is the point of human-computer interaction and communication in a device.
+This can include display screens, keyboards, a mouse and the appearance of desktop
+
+### React is not a framework. It is also known as ReactJS and React.js, so don't get confused if you read different notation in different places.
+
+### Component Based Approach
+A component is one of the core building blocks of React.
+In other words we can say that every application you will develop in react will be made up of pieces called components. Components make the task of buiding UI's much easier.
+
