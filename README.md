@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ######
 
 
-### `React` - A Javascript library for building user interfaces 
+# `React` - A Javascript library for building user interfaces 
 The user interface (UI) is the point of human-computer interaction and communication in a device.
 This can include display screens, keyboards, a mouse and the appearance of desktop
 
@@ -90,3 +90,5 @@ This can include display screens, keyboards, a mouse and the appearance of deskt
 ### 3. DOM updates are handled gracefully
 
 ### 4. Reusable Code
+
+### 5. React is designed for speed, speed of implementing the application simplicity and scalability
